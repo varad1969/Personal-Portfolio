@@ -16,8 +16,11 @@ This portfolio website serves as a central platform to present my professional p
 
 🌟 Highlights
 ⚡ Fast & Responsive – Optimized for smooth performance across all devices
+
 🎯 Clean UI/UX – Focused on readability and intuitive navigation
+
 🧠 Modular Codebase – Easy to maintain and scale over time
+
 🌐 Deployed Online – Accessible anywhere, anytime
 
 My project is live at:
